@@ -33,7 +33,6 @@ touro = Canvas(fenetre,width="90",height="50", background="#74F0AC")
 touro.place(x="502",y="100")
 developer = Canvas(fenetre,width="200",height="24", background="#6DFDFD")
 developer.place(x="0",y="322")
-prenom = developer.create_text(101,11,text="developpé par Ronan",fill="#00A7EB",font="Impact 11")
 case_confirm1 = 0
 case_confirm2 = 0
 case_confirm3 = 0
